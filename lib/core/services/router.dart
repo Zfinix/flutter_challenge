@@ -1,4 +1,4 @@
-import 'package:flutter_challenge/auth/counter.dart';
+import 'package:flutter_challenge/auth/auth.dart';
 import 'package:flutter_challenge/auth/views/auth_pages/create_passcode_page.dart';
 import 'package:flutter_challenge/auth/views/main_page/main_page.dart';
 import 'package:go_router/go_router.dart';

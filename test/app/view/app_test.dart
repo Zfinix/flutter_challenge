@@ -6,12 +6,12 @@
 // https://opensource.org/licenses/MIT.
 
 import 'package:flutter_challenge/app/app.dart';
-import 'package:flutter_challenge/auth/counter.dart';
+import 'package:flutter_challenge/auth/auth.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('App', () {
-    testWidgets('renders CounterPage', (tester) async {
+    testWidgets('renders CreateAccountPage', (tester) async {
       await tester.pumpWidget(const App());
       expect(find.byType(CreateAccountPage), findsOneWidget);
     });

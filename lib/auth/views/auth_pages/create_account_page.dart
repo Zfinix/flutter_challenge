@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_challenge/auth/counter.dart';
+import 'package:flutter_challenge/auth/auth.dart';
 import 'package:flutter_challenge/core/services/router.dart';
 import 'package:flutter_challenge/core/utils/colors.dart';
 import 'package:flutter_challenge/core/utils/extensions.dart';
