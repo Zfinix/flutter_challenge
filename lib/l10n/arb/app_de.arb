@@ -1,0 +1,24 @@
+{
+    "@@locale": "de",
+    "createAccountAppBarTitle": "Konto anlegen",
+    "@createAccountAppBarTitle": {
+        "description": "Text, der in der AppBar der Seite Konto erstellen angezeigt wird"
+    },
+    "createPasscodeAppBarTitle": "Passwort erstellen",
+    "@createPasscodeAppBarTitle": {
+        "description": "Text, der in der AppBar der Seite Passcode erstellen angezeigt wird"
+    },
+    "createPasscodeSubTitle": "Machen Sie es 💪 - Verzichten Sie auf Sequenzen (123456) und wiederholte Zahlen (111234)",
+    "nameLengthError": "Name muss mindestens 2 Zeichen lang sein",
+    "nameValidError": "Name muss eine gültige Zeichenfolge sein",
+    "emailValidError": "E-Mail-Adresse muss das @-Symbol und einen Punkt haben",
+    "passcodeLengthError": "Der PIN-Code muss 6-stellig sein",
+    "passcodeDuplicateDigitsError": "Ziffern sollten sich nicht öfter als 2 mal wiederholen",
+    "passcodeSequentialDigitsError": "Passcode sollte keine einfache Sequenz sein",
+    "clearAccount": "Konto löschen",
+    "next": "Nächste",
+    "confirm": "Bestätigen",
+    "name": "Name",
+    "email": "Email",
+    "logOut": "Ausloggen"
+}

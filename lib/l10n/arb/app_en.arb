@@ -1,0 +1,24 @@
+{
+    "@@locale": "en",
+    "createAccountAppBarTitle": "Create account",
+    "@createAccountAppBarTitle": {
+        "description": "Text shown in the AppBar of the Create account Page"
+    },
+    "createPasscodeAppBarTitle": "Create passcode",
+    "@createPasscodeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Create passcode Page"
+    },
+    "createPasscodeSubTitle": "Make it 💪 - Refrain from sequences (123456) and repeated numbers (111234)",
+    "nameLengthError": "Name must be at least 2 characters long",
+    "nameValidError": "Name must be a valid string",
+    "emailValidError": "Email address must have the @ symbol and a dot",
+    "passcodeLengthError": "Pin code must be 6 digits",
+    "passcodeDuplicateDigitsError": "Digits should not repeat themselves more than 2 times",
+    "passcodeSequentialDigitsError": "Passcode should not be a simple sequence",
+    "clearAccount": "Clear account",
+    "confirm": "Confirm",
+    "next": "Next",
+    "name": "Name",
+    "email": "Email",
+    "logOut": "Log out"
+}

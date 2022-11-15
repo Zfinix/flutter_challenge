@@ -1,0 +1,24 @@
+{
+    "@@locale": "es",
+    "createAccountAppBarTitle": "Crear una cuenta",
+    "@createAccountAppBarTitle": {
+        "description": "Texto que se muestra en la AppBar de la página Crear cuenta"
+    },
+    "createPasscodeAppBarTitle": "Crear código de acceso",
+    "@createPasscodeAppBarTitle": {
+        "description": "Texto que se muestra en la AppBar de la página Crear código de acceso"
+    },
+    "createPasscodeSubTitle": "Hazlo 💪 - Abstenerse de secuencias (123456) y números repetidos (111234)",
+    "nameLengthError": "El nombre debe tener al menos 2 caracteres",
+    "nameValidError": "El nombre debe ser una cadena válida",
+    "emailValidError": "La dirección de correo electrónico debe tener el símbolo @ y un punto",
+    "passcodeLengthError": "El código PIN debe tener 6 dígitos",
+    "passcodeDuplicateDigitsError": "Los dígitos no deben repetirse más de 2 veces",
+    "passcodeSequentialDigitsError": "El código de acceso no debe ser una secuencia simple",
+    "clearAccount": "Borrar cuenta",
+    "next": "Siguiente",
+    "confirm": "Confirmar",
+    "name": "Nombre",
+    "email": "Email",
+    "logOut": "Cerrar sesión"
+}

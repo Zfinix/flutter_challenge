@@ -1,0 +1,58 @@
+name: flutter_challenge
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  bloc: ^8.0.3
+  cupertino_icons: ^1.0.5
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  flutter_localizations:
+    sdk: flutter
+  gap: ^2.0.0
+  go_router: ^5.1.5
+  intl: ^0.17.0
+  pinput: ^2.2.16
+  rxdart: ^0.27.6
+
+dev_dependencies:
+  bloc_test: ^9.0.3
+  flutter_test:
+    sdk: flutter
+  mocktail: ^0.3.0
+  very_good_analysis: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/png/  
+
+  fonts:
+    - family: AlbertSans
+      fonts:
+        - asset: assets/fonts/AlbertSans-Thin.ttf
+          weight: 300
+
+        - asset: assets/fonts/AlbertSans-Regular.ttf
+          weight: 400
+
+        - asset: assets/fonts/AlbertSans-Medium.ttf
+          weight: 500
+
+        - asset: assets/fonts/AlbertSans-SemiBold.ttf
+          weight: 600
+
+        - asset: assets/fonts/AlbertSans-Bold.ttf
+          weight: 700
+
+        - asset: assets/fonts/AlbertSans-ExtraBold.ttf
+          weight: 800
+
